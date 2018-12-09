@@ -1,4 +1,4 @@
-# CXF WebService Mock Endpoint Example
+# CXF WebService Mock Endpoint Example, migrated to spring boot
 
 ### Introduction
 
